@@ -1,5 +1,5 @@
 # GHUB.EJ2025.unidadI-base
-Problemas resueltos en pseudocódigo de la materia Fundamentos de Programacion.
+Problemas propuestos para resolver en pseudocódigo de la materia Fundamentos de Programación.
 
 # Listado de Ejercicios:
 1. Elaborar un programa que muestre por pantalla la frase “Hola Mundo”
@@ -17,6 +17,12 @@ Problemas resueltos en pseudocódigo de la materia Fundamentos de Programacion.
 13. Elabore un programa para calcular el cuadrado, el cubo y la quinta potencia de un número entero.
 14. Elabore un programa que, dados como dato la base y la altura de un rectángulo calcule el perímetro y la superficie del mismo.
 15. Diseñe un programa que calcule cuántos dulces en total consumieron en la fiesta de Eduardo si asistieron 7 invitados y cada niño se le dieron 3 dulces así como  cuánto gastó su papa por el consumo. Considere que cada dulce cuesta 13 pesos.
-16. Elaborar un programa que realice  operaciones aritméticas utlizando métodos o funciones  diferentes para sumar, restar, multiplicar, dividir y residuo. 
+16. Elaborar un programa que realice  operaciones aritméticas utlizando métodos o funciones  diferentes para sumar, restar, multiplicar, dividir y residuo.
+
+# Indicaciones:
+1. Para la solución de cada problema se deberá crear una carpeta.
+2. En cada carpera deberá incluir la solución en pseucódigo, utilizando PSEint (formato psc), así como el o los diagramas de flujo generados a partir del psc en formato PNG 
+3. Un archivo en formato PDF que contengo la solución del problema, utilizando la metodología 6D
+
 ![image](https://github.com/user-attachments/assets/2bcfc5a3-6a95-4a6b-82c5-6bc6146fc17c)
 
